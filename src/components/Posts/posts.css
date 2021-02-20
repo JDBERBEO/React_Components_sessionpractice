@@ -1,0 +1,25 @@
+.posts {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+}
+.posts:hover {
+    color:darkblue
+}
+
+.homebutton {
+    background-color: blue;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.commentbutton {
+    margin-top: 10px;;
+}
